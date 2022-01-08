@@ -11,7 +11,7 @@ y la distribuidora.
 La distribuidora es aquella empresa la cual se encarga de reponer nuestro stock.
 
 En las consultas se trabajaran con:
-*** Operadores de etapa: ***
+***Operadores de etapa:***
 - $match 
 - $group
 - $project
@@ -19,7 +19,7 @@ En las consultas se trabajaran con:
 - $limit
 - $round
 
-*** Operadores para usar en cada etapa: ***
+***Operadores para usar en cada etapa:***
 - $sum
 - $multiply
 - $divide
